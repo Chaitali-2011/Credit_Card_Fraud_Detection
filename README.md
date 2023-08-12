@@ -10,3 +10,18 @@ Enhanced performance accuracy by 28% & reduced system error incidence by conduct
 Defined key features to be extracted & transformed from the raw data (Feature engineering) to optimize training & predictions of legitimacy of the transactions.
 Formulated & applied machine learning algorithms on transactional data to improve fraud flagging processes.
 Generated graphical reports via visualization tools like Power-Bi & Tableau for fraud patterns predicted.
+
+Technologies used:
+Python Libraries - Matplotlib, Sci-kit learn, Sea-born
+Anaconda Spyder
+Jupyter Notebook
+Flask
+Power BI & Tableau
+MySQL
+Machine Learning Algorithms
+HTML
+CSS
+Bootstrap
+Brackets
+Windows OS
+
