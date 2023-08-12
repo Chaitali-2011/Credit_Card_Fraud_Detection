@@ -12,7 +12,7 @@ Formulated & applied machine learning algorithms on transactional data to improv
 Generated graphical reports via visualization tools like Power-Bi & Tableau for fraud patterns predicted.
 
 Technologies used:
-Python Libraries - Matplotlib, Sci-kit learn, Sea-born
+Python Libraries - Matplotlib, Sci-kit learn, Sea-born 
 Anaconda Spyder
 Jupyter Notebook
 Flask
